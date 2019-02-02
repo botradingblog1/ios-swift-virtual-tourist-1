@@ -16,6 +16,6 @@ This app let's you pick places on the world map and view a random set of Flickr 
 3. When you click on the pin, a random set of images are fetched from Flickr for this location.
 
 ## Screenshots
-![Virtual Tourist 1](screenshots/virtual-tourist-ss-1.png?raw=true "Virtual Tourist 1")
+![Virtual Tourist 1](Screenshots/virtual-tourist-ss-1?raw=true "Virtual Tourist 1")
 
-![Virtual Tourist 2](screenshots/virtual-tourist-ss-2.png?raw=true "Virtual Tourist 1")
+![Virtual Tourist 2](Screenshots/virtual-tourist-ss-2.png?raw=true "Virtual Tourist 2")
