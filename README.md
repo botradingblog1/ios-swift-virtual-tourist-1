@@ -11,12 +11,9 @@ This app let's you pick places on the world map and view a random set of Flickr 
 * As temporary data storage, we are just using a Meme array in the AppDelegate. In the future, the app could be extended to use persistent data storage.
 
 ## Usage
-1. When the app is started, select the plus (+) button on the top right to add a new Meme
-2. On the Meme Editor page, select the bottom right picture button to add a picture from your Photos library or
-3. select the bottom left camera button to take an ad hoc picture.
-4. Click on the top and bottom title to add a Meme title.
-5. Use the top left upload button to share the image or save it to your Photos library.
-6. The new Meme is saved and can be displayed either in a list view or a colleciton view.
+1. When the app is started, a map is displayed. You can use pinch, zoom and pan to adjust the map
+2. Long press on the map to create a pin at the desired location.
+3. When you click on the pin, a random set of images are fetched from Flickr for this location.
 
 ## Screenshots
 ![Virtual Tourist 1](screenshots/virtual-tourist-ss-1.png?raw=true "Virtual Tourist 1")
